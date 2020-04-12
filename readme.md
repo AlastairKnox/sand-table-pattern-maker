@@ -8,6 +8,15 @@ This is part of my [Sand Table Build](https://markroland.com/portfolio/sand-tabl
 
 Built with [p5.js](https://p5js.org)
 
+## Run using NPM
+
+I'm beginning to test support of a [Node JS](https://nodejs.dev) command line interface for this application
+so that it can be run that way.
+
+```
+node pattern.js
+```
+
 ## Controls
 
  - Press "o" to toggle an overlay of the pattern settings in the canvas

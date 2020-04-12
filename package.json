@@ -1,0 +1,25 @@
+{
+  "name": "pattern",
+  "version": "0.1.0",
+  "description": "Create coordinate patterns for continuous line plotters.",
+  "main": "pattern.js",
+  "private": true,
+  "scripts": {
+    "test": "./pattern.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markroland/sand-table-pattern-maker.git"
+  },
+  "keywords": [
+    "Sisyphus",
+    "p5js",
+    "Sand Pattern Generator"
+  ],
+  "author": "Mark Roland",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/markroland/sand-table-pattern-maker/issues"
+  },
+  "homepage": "https://github.com/markroland/sand-table-pattern-maker#readme"
+}
