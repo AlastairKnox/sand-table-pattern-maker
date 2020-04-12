@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/markroland/sand-table-pattern-maker/issues"
   },
-  "homepage": "https://github.com/markroland/sand-table-pattern-maker#readme"
+  "homepage": "https://github.com/markroland/sand-table-pattern-maker#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }

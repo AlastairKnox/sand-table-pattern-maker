@@ -14,7 +14,7 @@ I'm beginning to test support of a [Node JS](https://nodejs.dev) command line in
 so that it can be run that way.
 
 ```
-node pattern.js
+node pattern.js --pattern=circle
 ```
 
 ## Controls
