@@ -2,20 +2,12 @@
 
 ![Sand Table](sand_table_pattern_maker.jpg)
 
-[Launch Pattern Maker](https://markroland.github.io/sand-table-pattern-maker/)
-
-This is part of my [Sand Table Build](https://markroland.com/portfolio/sand-table)
-
-Built with [p5.js](https://p5js.org)
+[Launch Pattern Maker](https://github.com/Twiddled/sand-table-pattern-maker)
 
 ## Installation
 
 The great news is that this doesn't need to be compiled or installed to run,
 simply [open it in your browser here](https://markroland.github.io/sand-table-pattern-maker/)!
-
-That said, everyone likes to tweak things, so if you'd like to do that, go ahead and clone
-or [Download](https://github.com/markroland/sand-table-pattern-maker/archive/master.zip)
-from Github and then open the index.html file in your favorite browser.
 
 ## Controls
 
