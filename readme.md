@@ -1,7 +1,5 @@
 # Sand Table Pattern Maker
 
-![Sand Table](sand_table_pattern_maker.jpg)
-
 [Launch Pattern Maker](https://github.com/Twiddled/sand-table-pattern-maker)
 
 ## Installation
