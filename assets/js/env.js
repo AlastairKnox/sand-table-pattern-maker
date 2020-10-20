@@ -4,18 +4,18 @@ var env = {
         "units": "mm",
         "x": {
             "min": 0.0,
-            "max": 472.0
+            "max": 920.0
         },
         "y": {
             "min": 0.0,
-            "max": 380.0
+            "max": 920.0
         }
     },
     "motor": {
         "speed": 4000.0
     },
     "ball": {
-        "diameter": 19.0
+        "diameter": 20.0
     },
     "gcode": {
         "command": "G0"
